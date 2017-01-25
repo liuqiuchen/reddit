@@ -1,5 +1,5 @@
 // 设计 state
-{
+let state = {
   selectedsubreddit: 'frontend',
   entities: {
     users: {
